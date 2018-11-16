@@ -91,6 +91,9 @@ Este código, escrito en Java, implementa la clase Ingeniero de la cual salen la
 ```
 Esta ya es la implementación de la fachada, que crea un ArrayList de estudiantes, además de los diferentes tipos de Ingeniero y los añade al ArrayList. El cliente, al interactuar con el programa, solo tiene que llamar a un método que se va a encargar de desencadenar todas las funciones del código. Así, el cliente, no tiene por qué conocer lo que ocurre "detrás de bambalinas", e igual obtiene el resultado deseado.
 
+## Diagrama de clases
+
+![imagen](facadeUML.png)
 # Créditos
 
 - [ Design Patterns with UML](http://design-patterns-with-uml.blogspot.com/2013/02/facade-pattern.html) 
