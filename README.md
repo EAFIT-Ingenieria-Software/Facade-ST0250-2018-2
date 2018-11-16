@@ -5,7 +5,7 @@ Juan Camilo Echeverri Salazar
 
 Santiago Tello Ruiz
 
-##Descripción
+## Descripción
 Es un patrón de diseño que nos permite simplificar y unificar la interfaz de comunicación entre subsistemas. Nos sirve para:
 - Minimizar la comunicación y las dependencias entre subsistemas.
 - Proporcionar una interfaz sencilla para un subsistema complejo.
